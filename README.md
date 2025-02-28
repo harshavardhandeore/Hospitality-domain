@@ -1,1 +1,1 @@
-# Hospitality-domain (Interactive dashboard using powerbi)
+# Hospitality-domain (Interactive dashboard using Power BI)
