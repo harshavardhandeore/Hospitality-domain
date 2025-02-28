@@ -33,4 +33,15 @@ The final dashboard provides a detailed overview of the performance metrics, all
 ## Dashboard
 [Dashboard](https://raw.githubusercontent.com/harshavardhandeore/Hospitality-domain/main/Screenshot%202025-02-28%20233210.png)
 
-  
+## Project Insights
+- Business hotels generate 61.62% of total revenue, indicating higher demand compared to leisure hotels.
+- Seasonal trends in occupancy and revenue highlight the need for targeted marketing during off-peak periods.
+- Higher customer ratings correlate with better revenue and occupancy metrics.
+- Popular room types influence revenue and occupancy, suggesting optimization of pricing strategies.
+- Evaluating the impact of marketing campaigns can inform future strategies.
+- Tailoring strategies based on city-wise revenue can improve performance in underperforming areas.
+- Monitoring trends in key metrics provides a comprehensive view of operational performance.
+
+
+## Conclusion
+This project provides valuable insights into the performance of AtliQ Hotels across different cities and hotel categories. The dashboard enables stakeholders to monitor key metrics and make data-driven decisions. Future work could involve deeper analysis of customer reviews and exploring new strategies to optimize occupancy and revenue.
