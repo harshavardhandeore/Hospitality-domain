@@ -31,6 +31,6 @@ The analysis was conducted using Power BI, following these steps:
 The final dashboard provides a detailed overview of the performance metrics, allowing stakeholders to make data-driven decisions.
 
 ## Dashboard
-[Dashboard](https://github.com/harshavardhandeore/Hospitality-domain/raw/main/Screenshot%202025-02-28%20233210.png)
+[Dashboard](https://raw.githubusercontent.com/harshavardhandeore/Hospitality-domain/main/Screenshot%202025-02-28%20233210.png)
 
   
